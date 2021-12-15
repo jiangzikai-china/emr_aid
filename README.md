@@ -5,6 +5,3 @@
 # 可以自己编译：
 <br/>pyinstaller -F -w -i RE.ico 评定医嘱辅助书写_0.1a.py</br>
 <br/>csv和gif文件要放在exe同目录下</br>
-# 32位二进制程序
-<br/>链接：https://pan.baidu.com/s/1VHNare9Iug1bQfJpVg6kaA </br>
-<br/>提取码：fjm9</br>
